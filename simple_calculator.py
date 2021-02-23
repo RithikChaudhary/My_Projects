@@ -1,4 +1,6 @@
-# Simple Calculator that does basic calculations involving decimals and negative numbers.
+"""
+Simple Calculator that does basic calculations involving decimals and negative numbers.
+"""
 
 import tkinter
 from tkinter import *
