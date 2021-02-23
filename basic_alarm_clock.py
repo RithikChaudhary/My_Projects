@@ -1,5 +1,7 @@
-# Basic Alarm Clock that shows real time in a 24 hour format and accepts 24 hour formatted time to 
-# know when to ring the song used for the alarm.
+"""
+Basic Alarm Clock that shows real time in a 24 hour format and accepts 24 hour formatted time to 
+know when to ring the song used for the alarm.
+"""
 
 import tkinter
 import time
