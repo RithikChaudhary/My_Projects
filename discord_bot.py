@@ -1,5 +1,7 @@
-#Discord bot that stops a discord user from joining a call for a certain period of time specified by the user who wrote the command.
-#This bot also contains other small commands.
+"""
+Discord bot that stops a discord user from joining a call for a certain period of time specified by the user who wrote the command.
+This bot also contains other small commands.
+"""
 
 import discord
 from discord.ext import commands
